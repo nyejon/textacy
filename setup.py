@@ -19,7 +19,6 @@ INSTALL_REQUIRES = [
     'requests>=2.10.0',
     'scipy>=0.17.0',
     'scikit-learn>=0.17.0',
-    'spacy>=2.0.0',
     'tqdm>=4.11.1',
     'unidecode>=0.04.19',
     ]
